@@ -29,8 +29,7 @@ textarea:focus {
 /* main */
 .main {
   padding: 3rem 0;
-  background: #ffffff url(../img/bgc-head.jpg) center no-repeat;
-  background: width 100%;
+  background: url(../img/bgc-head.jpg) center no-repeat;
 }
 .main-content {
   margin-top: 10rem;
